@@ -1,0 +1,8 @@
+a= int (input('Digite algo: '))
+print ('O tipo primitivo desse valor é', type(a))
+b= float (input('Digite algo: '))
+print ('O valor primitivo desse valor é', type(b))
+c= bool (input('Digite algo: '))
+print ('O valor primitivo desse valor é', type(c))
+d= str (input('Digite algo: '))
+print ('O valor primitivo desse valor é', type(d))
