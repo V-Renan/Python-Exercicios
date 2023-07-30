@@ -7,4 +7,3 @@ n5 = str(input('Nome do quinto aluno: '))
 lista = [n1, n2, n3, n4, n5]
 escolhido = choice(lista)
 print('O aluno escolhido para limpar o quadro foi: {}'. format(escolhido))
-

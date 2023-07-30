@@ -11,4 +11,3 @@ print(f'''Unidade: {u}
 Dezena: {d}
 Centena: {c}
 Milhar: {m}''')
-
