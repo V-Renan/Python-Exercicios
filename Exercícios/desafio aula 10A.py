@@ -13,4 +13,3 @@ if jogador == aleatorio:
     print('-=-' * 20)
 else:
     print(f"Errou! O número era {aleatorio}, sabia que não iria me vencer!!")
-

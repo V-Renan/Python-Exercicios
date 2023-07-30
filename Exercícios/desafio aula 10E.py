@@ -5,5 +5,4 @@ if ano == 0:
 if ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0:
     print(f"{ano} É sim um ano Bissexto!")
 else:
-   print(f"{ano} Não é um ano Bissexto.")
-
+    print(f"{ano} Não é um ano Bissexto.")
